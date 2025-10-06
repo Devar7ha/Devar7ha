@@ -4,3 +4,6 @@ Hello.
 
 > Contact info:
 https://github.com/Devar7ha
+
+> Programming languages:
+At the moment, I am interested in learning Python, C#, and Java, and I am currently learning C++ and in track of learning Python basics.
